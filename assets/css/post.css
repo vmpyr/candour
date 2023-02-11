@@ -48,8 +48,19 @@ body {
 
 .main-content {
     margin-left: 30vw;
+    margin-right: 10vw;
     width: 60vw;
     padding: 4em 5em;
+}
+
+.nav-container {
+    width: 10vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: fixed;
+    margin-left: 90vw;
 }
 
 h1, h2, h3, h4, h5, h6, p {
@@ -60,7 +71,6 @@ p {
     font-size: 20px;
     font-weight: 400;
     color: rgb(30, 30, 30);
-    /* color: black; */
 }
 
 a {
@@ -85,9 +95,4 @@ blockquote {
 }
 blockquote > :last-child {
     margin-bottom: 0;
-}
-
-.nav-container {
-    width: 10vw;
-    
 }

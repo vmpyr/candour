@@ -4,7 +4,7 @@ title:  "Welcome to Jekyll!"
 date:   2023-02-10 18:31:05 +0530
 categories: jekyll update
 permalink: welcome
-hero: /assets/images/mountains.jpg
+hero: /assets/images/nature.jpg
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat felis in varius tempor. Fusce porta congue lacus, aliquet accumsan turpis efficitur quis. Integer a nibh ipsum. Etiam rhoncus est facilisis massa pharetra, vel maximus felis congue. Duis viverra, erat vitae facilisis ultrices, nulla odio vulputate leo, in vehicula diam mauris sed lacus. Curabitur convallis quis massa at tincidunt. Maecenas varius tincidunt aliquam. Donec aliquet quis ante quis rhoncus. Praesent at ante sem. Proin ut tempor nulla. Maecenas maximus dolor sed justo porta rhoncus. Vivamus finibus ipsum lorem, a ullamcorper tortor eleifend at. Nam fringilla tincidunt blandit.
 
