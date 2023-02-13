@@ -23,7 +23,6 @@ ul.main-nav li {
     border-top-left-radius: 7px;
     border-bottom-left-radius: 7px;
     background-size: cover;
-    color: white;
-    text-shadow: 2px 2px 4px black;
+    color: black;
     box-shadow: 5px 5px 50px #888888;
 }
